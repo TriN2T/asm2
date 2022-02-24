@@ -1,0 +1,36 @@
+.noidung{
+    width: 80%;
+    height: auto;
+    margin-left: 10%;
+    text-align: center;
+    padding-bottom: 50px;
+}
+.noidung>h2{
+    color: rgb(70, 68, 66);
+}
+.noidung>p{
+    text-align: justify;
+    margin-left: 60px;
+    margin-right: 60px;
+    font-size: 20px;
+    margin-bottom: 150px;
+}
+.noidung>button{
+    width: 35px;
+    height: 35px;
+    font-weight: 700;
+    background-color: wheat;
+}
+.noidung>button:hover{
+    width: 35px;
+    height: 35px;
+    background-color: red;
+}
+.anh{
+    width: 88%;
+    margin: 6%;
+    padding-top:5% ;
+    padding-bottom: 5%;
+    border-radius: 50px;
+    border: 3px dotted rebeccapurple;
+}

@@ -1,0 +1,19 @@
+button{
+    margin-left: 20px;
+    width: 35px;
+    height: 35px;
+    font-weight: 700;
+    background-color: wheat;
+    margin-bottom: 50px;
+}
+button:hover{
+    width: 35px;
+    height: 35px;
+    background-color: red;
+}
+body{
+    text-align: center;
+}
+article{
+    text-align: left;
+}
